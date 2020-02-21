@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#fond{
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+  top: 100px;
+  width: 1000px;
+  height: 500px;
+  background-color: black;
+}
+#pacman{
+  border-radius: 50px;
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
+/* dthtefjbjzdfzfujberbuisdfiuhsdffiouhdfrsgrnjosdfdoujnsdfyhb */
